@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/seif-moustafa-60115f/**
   
--  📄 Know about my experiences [Resume_Link]([[https://drive.google.com/file/d/1N44_aytkYB-V3jzztJYgFn1jGF1PCle-/view?usp=drive_link](https://drive.google.com/file/d/1HisCgzIf5ZXv6GVpp2dNJQg3oruWl-B5/view?usp=sharing)](https://seifportfolio-lemon.vercel.app/))
+-  📄 Know about my experiences [Resume_Link](https://seifportfolio-lemon.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
