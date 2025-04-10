@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Seif</h1>
 <h3 align="center">A passionate Mobile Application Developer from Egypt specializing in Flutter, with expertise in ASP.NET Core for backend development and React for modern frontend solutions.</h3>
 
-- 🔭 I’m currently working on [readit](https://github.com/seifmoustafa/read_it)
+- 🔭 I’m currently working on [Deals]([https://github.com/seifmoustafa/read_it](https://github.com/seifmoustafa/Deals))
 
 - 🌱 I’m currently learning **Flutter,React.js,ASP.netcore**
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/seif-moustafa-60115f/**
   
--  📄 Know about my experiences [Resume_Link](https://drive.google.com/file/d/1N44_aytkYB-V3jzztJYgFn1jGF1PCle-/view?usp=drive_link)
+-  📄 Know about my experiences [Resume_Link]([https://drive.google.com/file/d/1N44_aytkYB-V3jzztJYgFn1jGF1PCle-/view?usp=drive_link](https://drive.google.com/file/d/1HisCgzIf5ZXv6GVpp2dNJQg3oruWl-B5/view?usp=sharing))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
