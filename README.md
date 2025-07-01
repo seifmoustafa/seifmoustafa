@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Flutter**
 
-- 📫 How to reach me **https://www.linkedin.com/in/seif-moustafa-60115f/**
+- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/seif-moustafa-60115f/)
   
 -  📄 Know about my experiences [Resume_Link](https://seifportfolio-lemon.vercel.app/)
 
